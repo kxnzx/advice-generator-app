@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- View my Solution on [Frontend Mentor](https://your-solution-url.com)
-- View the Live Site [here](https://your-live-site-url.com)
+- View my Solution on [Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-app-made-with-fetch-api-u000xx57-L)
+- View the Live Site [here](https://kxnzx.github.io/advice-generator-app/)
 
 ## My process
 
